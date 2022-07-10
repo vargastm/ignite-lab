@@ -44,7 +44,7 @@ You can view the project layout in [Figma](<https://www.figma.com/file/05DY7lbUo
 
 ### 📝 License
 
-**Ignite Lab** is released under the [MIT License](./LICENSE) para mais detalhes.
+**Ignite Lab** is released under the [MIT License](./LICENSE).
 
 ---
 
